@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula24ObjetoseArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoseArgumentos.genruntimeconfig.cache
